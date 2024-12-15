@@ -1,14 +1,31 @@
 {
-  "movies": [
-    
-     
-     {
-    "name": "Akaram nadaf",
-    "image": "file:///data/user/0/com.schoolproject/cache/rn_image_picker_lib_temp_f5916ed2-c0e0-4e90-8651-caca41626b25.jpg",
-    "id": 4
-  },
-    
-    
-    
+  "questions": [
+    {
+      "id": 1,
+      "category": "Science",
+      "difficulty": "Easy",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO2"],
+      "answer": "H2O"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "player1",
+      "score": 0
+    }
+  ],
+  "sessions": [
+    {
+      "id": 1,
+      "players": [1, 2],
+      "currentQuestion": 1,
+      "scores": {
+        "1": 10,
+        "2": 20
+      }
+    }
   ]
 }
+
