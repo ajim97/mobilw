@@ -1,9 +1,17 @@
 {
-  {
       "movies": [
-        
+        {
+          "id": 2,
+      "category": "Science",
+      "difficulty": "Easy",
+      "question": "What is the chemical symbol for water?",
+      "options": ["H2O", "O2", "CO2", "HO2"],
+      "answer": "H2O"
+        }
       ]
     }
+{
+ 
   "questions": [
     {
       "id": 1,
