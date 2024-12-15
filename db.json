@@ -1,10 +1,6 @@
  {
       "movies": [
-        {
-      "id": "1",
-      "user": "Alice",
-      "text": "Hi there!"
-    }
+       
       ]
     }
   
