@@ -1,11 +1,4 @@
- {
-      "movies": [
-       
-      ]
-    }
-  {
-      "Student": [
-       
-      ]
-    }
-  
+{
+  "movies": [],
+  "notifications": []
+}
